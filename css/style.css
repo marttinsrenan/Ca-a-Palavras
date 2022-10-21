@@ -1,0 +1,28 @@
+
+body{
+    
+    align-items: center;
+    text-align: center;
+    color: rgb(28, 27, 27);
+    font-size: 33px;
+    font-family: 'Arial, Helvetica, sans-serif';
+}
+p{
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(28, 27, 27);
+    font-family: 'Arial, Helvetica, sans-serif';
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    width: 35px;
+    height: 35px;
+}
+table{
+    border-collapse: collapse;
+}
+
+td.nomes{
+    background-color: #5521d8;
+}
